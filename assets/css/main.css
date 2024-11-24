@@ -3797,7 +3797,7 @@ input, select, textarea {
     max-width: 100%;
 }
 .button {
-    padding: 10px 20px;
+    padding: 10px 10px;
     background-color: #007bff;  /* Colore di sfondo del pulsante */
     color: white;
     text-decoration: none;
