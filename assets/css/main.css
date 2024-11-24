@@ -3816,3 +3816,6 @@ input, select, textarea {
 .project-links > a.button {
     margin-bottom: 30px; /* Aggiungi spazio tra il pulsante e il prossimo elemento */
 }
+h2 {
+    margin-top: 20px !important; /* Aggiungi spazio sopra al titolo */
+}
