@@ -3790,7 +3790,7 @@ input, select, textarea {
 }
 
 .screenshot {
-    width: 600px !important; 
+    width: 600px; 
     height: auto;
 }
 .image-container {
