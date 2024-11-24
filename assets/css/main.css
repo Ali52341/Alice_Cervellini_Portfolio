@@ -3763,9 +3763,9 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		width: 64em;
-		max-width: calc(100% - 4em);
-		margin: 0 auto;
+		width: 80%;                    /* Imposta la larghezza del contenitore al 80% della larghezza della finestra */
+    max-width: 100%;                /* Impedisce che il contenitore superi il 100% della finestra */
+    margin: 0 auto; 
 	}
 
 		@media screen and (max-width: 480px) {
