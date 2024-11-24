@@ -2363,7 +2363,7 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		border-radius: 8px;
+		border-radius: 50px;
 		overflow: hidden;
 		display: inline-block;
 		position: relative;
@@ -2373,7 +2373,7 @@ input, select, textarea {
 	}
 
 		.image img {
-			border-radius: 8px;
+			
    			display: block;
 			width: 100%; /* Imposta l'immagine per riempire il contenitore */
     			height: 100%;
