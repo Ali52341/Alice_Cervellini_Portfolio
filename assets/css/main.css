@@ -3793,4 +3793,6 @@ input, select, textarea {
     width: 400px !important; 
     height: auto;
 }
-
+.image-container {
+    max-width: 100%;
+}
