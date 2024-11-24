@@ -3783,3 +3783,14 @@ input, select, textarea {
 			}
 
 		}
+.project-links {
+    display: flex;
+    align-items: center; /* Allinea verticalmente il bottone e l'immagine */
+    gap: 20px; /* Aggiungi uno spazio tra il bottone e l'immagine */
+}
+
+.screenshot {
+    width: 150px; /* Imposta la larghezza dell'immagine (puoi modificarla come preferisci) */
+    height: auto;
+}
+
