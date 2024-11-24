@@ -3798,7 +3798,7 @@ input, select, textarea {
 }
 .button {
     padding: 10px 20px;
-	margin-bottom: 20px;
+	
 	display: flex;                /* Imposta il pulsante come un contenitore flessibile */
     justify-content: center;       /* Allinea il testo orizzontalmente al centro */
     align-items: center;
@@ -3812,4 +3812,7 @@ input, select, textarea {
 
 .button:hover {
     background-color: #0056b3;  /* Cambia colore quando l'utente passa sopra il pulsante */
+}
+.project-links a.button {
+    margin-bottom: 20px; /* Aggiungi spazio tra il pulsante e il prossimo elemento */
 }
