@@ -3796,3 +3796,14 @@ input, select, textarea {
 .image-container {
     max-width: 100%;
 }
+.button {
+    padding: 10px 20px;
+    background-color: #007bff;  /* Colore di sfondo del pulsante */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #0056b3;  /* Cambia colore quando l'utente passa sopra il pulsante */
+}
