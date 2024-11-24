@@ -2367,12 +2367,16 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		width: 200px; /* Imposta una larghezza maggiore */
+  		height: 200px;
     
 	}
 
 		.image img {
 			border-radius: 8px;
    			display: block;
+			width: 100%; /* Imposta l'immagine per riempire il contenitore */
+    height: 100%;
 		}
 
 		.image.left, .image.right {
