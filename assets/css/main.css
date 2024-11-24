@@ -2367,8 +2367,8 @@ input, select, textarea {
 		overflow: hidden;
 		display: inline-block;
 		position: relative;
-		width: 200px; /* Imposta una larghezza maggiore */
-  		height: 200px;
+		width: 300px; /* Imposta una larghezza maggiore */
+  		height: 300px;
     
 	}
 
