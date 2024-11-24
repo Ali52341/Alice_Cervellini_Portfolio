@@ -3797,11 +3797,16 @@ input, select, textarea {
     max-width: 100%;
 }
 .button {
-    padding: 10px 10px;
+    padding: 10px 20px;
+	display: flex;                /* Imposta il pulsante come un contenitore flessibile */
+    justify-content: center;       /* Allinea il testo orizzontalmente al centro */
+    align-items: center;
     background-color: #007bff;  /* Colore di sfondo del pulsante */
     color: white;
     text-decoration: none;
     border-radius: 5px;
+	font-size: 16px;               /* Imposta la dimensione del testo */
+    height: 40px; 
 }
 
 .button:hover {
