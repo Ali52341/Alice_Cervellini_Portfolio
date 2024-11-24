@@ -2363,15 +2363,19 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		border-radius: 8px;
+		border-radius: 50px;
 		border: 0;
 		display: inline-block;
-		position: relative;
+		 width: 150px;  /* Imposta la larghezza */
+    height: 150px;
+		overflow: hidden;  /* Nasconde la parte dell'immagine che esce dal cerchio */
+    
 	}
 
 		.image img {
-			border-radius: 8px;
-			display: block;
+			width: 100%;  /* Imposta l'immagine per riempire il contenitore */
+    height: 100%;  /* Imposta l'altezza al 100% */
+    object-fit: cover;  
 		}
 
 		.image.left, .image.right {
