@@ -3790,7 +3790,7 @@ input, select, textarea {
 }
 
 .screenshot {
-    width: 300px; /* Imposta la larghezza dell'immagine (puoi modificarla come preferisci) */
+    width: 400px; /* Imposta la larghezza dell'immagine (puoi modificarla come preferisci) */
     height: auto;
 }
 
