@@ -3814,5 +3814,5 @@ input, select, textarea {
     background-color: #0056b3;  /* Cambia colore quando l'utente passa sopra il pulsante */
 }
 .project-links a.button {
-    margin-bottom: 20px; /* Aggiungi spazio tra il pulsante e il prossimo elemento */
+    margin-bottom: 30px; /* Aggiungi spazio tra il pulsante e il prossimo elemento */
 }
