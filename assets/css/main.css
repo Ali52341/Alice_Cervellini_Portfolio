@@ -3798,6 +3798,7 @@ input, select, textarea {
 }
 .button {
     padding: 10px 20px;
+	margin-bottom: 20px;
 	display: flex;                /* Imposta il pulsante come un contenitore flessibile */
     justify-content: center;       /* Allinea il testo orizzontalmente al centro */
     align-items: center;
