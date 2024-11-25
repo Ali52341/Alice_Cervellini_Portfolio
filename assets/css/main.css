@@ -3861,4 +3861,9 @@ h2 {
     color: #666;
 }
 
+.certification .icon {
+    display: inline-block;
+    margin-bottom: 15px;
+    color: #999; /* Colore grigio per indicare "in arrivo" */
+}
 
