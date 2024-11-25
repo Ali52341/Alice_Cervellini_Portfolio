@@ -3862,7 +3862,7 @@ h2 {
 }
 
 .icon-badge {
-    font-size: 3rem; /* Regola la grandezza */
+    font-size: 1rem; /* Regola la grandezza */
     color: #fd7e14;  /* Colore arancione */
     display: inline-block;
     vertical-align: middle; /* Allinea verticalmente */
