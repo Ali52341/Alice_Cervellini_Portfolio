@@ -3861,7 +3861,10 @@ h2 {
     color: #666;
 }
 
-.certification .icon {
+.icon-badge {
+    font-size: 3rem; /* Regola la grandezza */
+    color: #fd7e14;  /* Colore arancione */
     display: inline-block;
-    margin-bottom: 15px;}
+    vertical-align: middle; /* Allinea verticalmente */
+}
 
